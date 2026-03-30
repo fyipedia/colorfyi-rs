@@ -1,6 +1,6 @@
 [package]
 name = "colorfyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Color conversion, WCAG contrast, and color space lookup — async API client for colorfyi.com."
